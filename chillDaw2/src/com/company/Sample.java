@@ -1,9 +1,7 @@
 package com.company;
-
-
+import processing.sound.*;
 
 public class Sample {
-    import processing.sound.*;
     AudioSample sample1;
 
 }
