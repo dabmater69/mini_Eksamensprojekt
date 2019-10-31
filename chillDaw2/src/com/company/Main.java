@@ -1,5 +1,6 @@
 package com.company;
 import processing.core.PApplet;
+import processing.sound.*;
 
 public class Main extends PApplet{
 

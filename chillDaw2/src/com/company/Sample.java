@@ -1,7 +1,12 @@
 package com.company;
-import processing.sound.*;
 
-public class Sample {
+
+import processing.core.PApplet;
+
+
+
+public class Sample extends PApplet, Sound {
+
     AudioSample sample1;
 
 }
